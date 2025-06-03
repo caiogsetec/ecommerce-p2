@@ -32,7 +32,7 @@ Detalhes do produto.
 ![image](https://github.com/user-attachments/assets/bc2c6d03-e0b9-419a-848f-421ab433e376)
 
 Categorias.
-![image](https://github.com/user-attachments/assets/f4074e18-5fe1-4df7-99cc-340ee7a03ae8)
+![image](https://github.com/user-attachments/assets/b47ed938-81df-4df6-bdb8-47a076a231a9)
 
 Pesquisa.
 ![image](https://github.com/user-attachments/assets/fc85ea8e-7a0a-4547-9450-574c33b6863b)
