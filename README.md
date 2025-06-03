@@ -9,12 +9,15 @@ O projeto tem como funcionalidade simular um e-commerce de vários produtos, e t
 1. Primeiro baixe o arquivo pelo repositório do GitHub, e descompacte na sua area de trabalho.
 
 2. Após isso abre o seu cmd e abra o projeto com: cd ecommerce-p2-main/ecommerce-p2-main.
+   
 ![image](https://github.com/user-attachments/assets/1e8a0229-f44a-43b1-8507-9eb96deab3ba)
 
 3. Faça o comando npm install.
+   
 ![image](https://github.com/user-attachments/assets/306a8aa4-3f30-45e9-9d83-1f4ae6377431)
 
 4.E depois npm run dev, o seu terminal deve ficar assim:
+
 ![image](https://github.com/user-attachments/assets/6224f5bb-613f-49ba-9c28-849f0979cd83)
 
 5.Agora só aperta a letra "o" e dar enter, o projeto vai abrir automaticamente no seu navegador.
