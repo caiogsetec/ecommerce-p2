@@ -1,5 +1,11 @@
-# Vue 3 + Vite
+# Projeto E-commerce - ADS - Turma C - Unimar
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Esse é um projeto desenvolvido na disciplina de tecnologias de frontend do professor Valdir, o projeto foi desenvolvido utilizando axios, vue.js 3, vite e tailwindCSS, com base nos estudos em sala de aula.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+O projeto tem como funcionalidade simular um e-commerce de vários produtos, e tem como funcionalidade mostrar os produtos e os seus detalhes, paginação, caixa de pesquisa, categorias e carrinho de compras tudo em um layout simples mais funcional.
+
+# Como rodar o projeto:
+
+1. Primeiro baixe o arquivo pelo repositório do GitHub, e descompacte na sua area de trabalho.
+
+2. Após isso abre o seu cmd e abra o projeto com cd 
