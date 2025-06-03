@@ -8,4 +8,6 @@ O projeto tem como funcionalidade simular um e-commerce de vários produtos, e t
 
 1. Primeiro baixe o arquivo pelo repositório do GitHub, e descompacte na sua area de trabalho.
 
-2. Após isso abre o seu cmd e abra o projeto com cd 
+2. Após isso abre o seu cmd e abra o projeto com cd ecommerce-p2-main/ecommerce-p2-main
+   ![image](https://github.com/user-attachments/assets/1e8a0229-f44a-43b1-8507-9eb96deab3ba)
+
