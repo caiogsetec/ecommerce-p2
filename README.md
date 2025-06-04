@@ -42,8 +42,8 @@ Carrinho de compras.
 
 # Video com todas as funcionalidades:
 
+https://youtu.be/J0-k1KgThWs
 
-
-
+E esse é nosso projeto desenvolvido por Luiz Felipe Rosa dos Santos e Caio Garbin, Obrigado!
 
 
